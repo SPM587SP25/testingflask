@@ -24,3 +24,5 @@ steps:
       ]
 images:
   - gcr.io/flaskhelloworld-456301/flaskhelloworld
+options:
+  logging: CLOUD_LOGGING_ONLY
